@@ -29,4 +29,4 @@ Instaloader is an application for downloading Instagram media content. It is not
 Kindly download Instagram media with the consent of the respective owner as to not violate any copyrights.
 
 
-Download Instaloader [GitHub Flavored Markdown](https://play.google.com/store/apps/details?id=com.alphageek.instaloader).
+Download Instaloader [Instaloader](https://play.google.com/store/apps/details?id=com.alphageek.instaloader).
